@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="doc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/javacsv2.1/javacsv.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/javacsv2.1.zip!/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/javacsv2.1.zip!/src" />
+    </SOURCES>
+  </library>
+</component>
